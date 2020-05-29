@@ -1,0 +1,8 @@
+name: NOAA_hurricane_dataset
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - pandas
+prefix: /Users/briandk/opt/anaconda3/envs/NOAA_hurricane_dataset
+
